@@ -1,0 +1,10 @@
+.wrapper {
+  padding: 1%;
+  width: 100%;
+  min-height: 100vh;
+}
+h1 {
+  font-size: 5rem;
+  font-style: bolder;
+  font-weight: 300;
+}
